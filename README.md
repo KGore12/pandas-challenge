@@ -14,7 +14,7 @@ What surprised me is that the District Schools spent more on each student than t
 
 Unsurprisingly, was that larger schools had lower scores than smaller schools.  Oftentime, larger schools equate to larger class sizes with higher teacher:student ratios.  This in turn means less time for individualized instruction.  Smaller schools usually means smaller teacher:student ratios that in turn means more individualized attention. 
 
-![Summary](https://github.com/KGore12/pandas-challenge/blob/main/images/summary_score_size.jpg)
+![Summary](https://github.com/KGore12/pandas-challenge/blob/master/images/summary_score_size.jpg)
 
 ## District Summary
 
