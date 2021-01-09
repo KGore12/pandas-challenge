@@ -6,14 +6,21 @@ You've been asked to analyze the district-wide standardized test results. You'll
 Use the pandas library and Jupyter Notebook.
 
 
+## Observations from Data
+After completing the district summary, it was clear that the Charter schools had a higher passing rate for both math and reading compared to the district schools. 
 
-You must submit a link to your Jupyter Notebook with the viewable Data Frames.
+What surprised me is that the District Schools spent more on each student than the Charter schools but this higher budget per student wasn't reflected as higher scores for math and reading. 
 
-http://localhost:8888/notebooks/pandas-challenge/KG_PyCitySchools_starter.ipynb#
+Budget Range (Students)
+<$584       90.369459
+$585-614    90.216324
+$615-649    64.315933
+$650-675    53.520696
 
-You must include a written description of at least two observable trends based on the data.
+Unsurprisingly, was that larger schools had lower scores than smaller schools.  Oftentime, larger schools equate to larger class sizes with higher teacher:student ratios.  This in turn means less time for individualized instruction.  Smaller schools usually means smaller teacher:student ratios that in turn means more individualized attention. 
 
-See Example Solution for a reference on the expected format.
+![Summary By Size](Images/summary_score_size.jpg)
+
 
 ## District Summary
 
