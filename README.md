@@ -11,15 +11,10 @@ After completing the district summary, it was clear that the Charter schools had
 
 What surprised me is that the District Schools spent more on each student than the Charter schools but this higher budget per student wasn't reflected as higher scores for math and reading. 
 
-Budget Range (Students)
-<$584       90.369459
-$585-614    90.216324
-$615-649    64.315933
-$650-675    53.520696
 
 Unsurprisingly, was that larger schools had lower scores than smaller schools.  Oftentime, larger schools equate to larger class sizes with higher teacher:student ratios.  This in turn means less time for individualized instruction.  Smaller schools usually means smaller teacher:student ratios that in turn means more individualized attention. 
 
-![Summary](https://github.com/KGore12/pandas-challenge/blob/main/images/summary_score_size.JPG)
+![Summary](https://github.com/KGore12/pandas-challenge/blob/main/images/summary_score_size.jpg)
 
 ## District Summary
 
